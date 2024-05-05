@@ -4,6 +4,7 @@ import typer  # pip install "typer[all]"
 from rich import print  # pip install rich
 from rich.table import Table
 
+
 def main():
     openai.api_key = ""
     print("💬 [bold green]ChatGPT API en Python[/bold green]")

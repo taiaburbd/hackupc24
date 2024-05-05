@@ -7,7 +7,6 @@ load_dotenv(override=True)
 
 os.environ["OPENAI_API_KEY"] = ""
 
-
 from langchain.docstore.document import Document
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
