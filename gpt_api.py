@@ -6,7 +6,7 @@ from rich.table import Table
 
 
 def main():
-    openai.api_key = ""
+    openai.api_key = "***"
     print("💬 [bold green]ChatGPT API en Python[/bold green]")
     table = Table("Comando", "Descripción")
     table.add_row("exit", "Salir de la aplicación")
