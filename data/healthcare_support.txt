@@ -1,0 +1,12 @@
+Topic: Importance of vaccination
+An error occurred: The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations
+
+Topic: Managing diabetes with diet and exercise
+An error occurred: Incorrect API key provided: sk-proj-********************************************7zKV. You can find your API key at https://platform.openai.com/account/api-keys.
+
+Topic: Preventive measures for heart disease
+An error occurred: Incorrect API key provided: sk-proj-********************************************7zKV. You can find your API key at https://platform.openai.com/account/api-keys.
+
+Topic: Benefits of regular health check-ups
+An error occurred: Incorrect API key provided: sk-proj-********************************************7zKV. You can find your API key at https://platform.openai.com/account/api-keys.
+
