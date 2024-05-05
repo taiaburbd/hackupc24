@@ -5,7 +5,7 @@ from rich import print  # pip install rich
 from rich.table import Table
 
 def main():
-    openai.api_key = "sk-proj-vJbxb5s5UyQpJcFZWLvLT3BlbkFJW7KK1zwouuoOXBfC7zKV"
+    openai.api_key = ""
     print("💬 [bold green]ChatGPT API en Python[/bold green]")
     table = Table("Comando", "Descripción")
     table.add_row("exit", "Salir de la aplicación")

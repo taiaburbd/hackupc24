@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv(override=True)
 
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-vJbxb5s5UyQpJcFZWLvLT3BlbkFJW7KK1zwouuoOXBfC7zKV"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 from langchain.docstore.document import Document
